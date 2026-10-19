@@ -1,10 +1,17 @@
-<h1 align="center">Darshan Gaviyappa</h1>
-<p align="center"><b>M.S. student at Northeastern University · Data and software engineering</b></p>
+<p align="center">
+  <img src="banner.svg" alt="Darshan Gaviyappa, data and software engineering" width="100%">
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-NAME">LinkedIn</a> ·
-  <a href="mailto:YOUR-EMAIL@example.com">Email</a>
+  <img src="https://img.shields.io/badge/OPEN_TO-DATA_%26_SOFTWARE_ROLES-00C2E0?style=for-the-badge" alt="Open to data and software roles">
 </p>
+
+<p align="center">
+  <a href="https://github.com/DarshanGaviyappa"><img src="https://img.shields.io/badge/GITHUB-DarshanGaviyappa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/darshan-gaviyappa/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+</p>
+
+---
 
 ## About
 I build data pipelines and the applications on top of them: document processing with Python and FastAPI, financial data engineering with Snowflake, dbt and Airflow, and full-stack web apps with React and Node. Looking for data engineering and software engineering roles.

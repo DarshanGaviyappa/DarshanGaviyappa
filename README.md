@@ -1,15 +1,13 @@
 <h1 align="center">Darshan Gaviyappa</h1>
-<p align="center"><b>[Your headline, e.g. M.S. student at Northeastern University · data and software engineering]</b></p>
+<p align="center"><b>M.S. student at Northeastern University · Data and software engineering</b></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-NAME">LinkedIn</a> ·
+  <a href="mailto:YOUR-EMAIL@example.com">Email</a>
 </p>
 
 ## About
-I build data pipelines and the applications on top of them: document processing with Python and FastAPI,
-financial data engineering with Snowflake, dbt and Airflow, and full-stack web apps with React and Node.
-[Edit this so it is true for you. Add what you are looking for, e.g. "Seeking data engineering roles, Summer 2026".]
+I build data pipelines and the applications on top of them: document processing with Python and FastAPI, financial data engineering with Snowflake, dbt and Airflow, and full-stack web apps with React and Node. Looking for data engineering and software engineering roles.
 
 ## Tech stack
 | | |
@@ -27,11 +25,10 @@ financial data engineering with Snowflake, dbt and Airflow, and full-stack web a
 |---|---|
 | [document-processing-pipeline](https://github.com/DarshanGaviyappa/document-processing-pipeline) | Extracts PDFs and web pages to clean Markdown. Routes between pdfplumber, Azure Document Intelligence, Docling and MarkItDown, and stores results in S3. FastAPI + Streamlit. |
 | [findata-sec-analysis](https://github.com/DarshanGaviyappa/findata-sec-analysis) | SEC financial statement database built with Snowflake, dbt and Airflow. |
-| [Full-Atom-Generation-of-Antibody](https://github.com/DarshanGaviyappa/Full-Atom-Generation-of-Antibody) | [One line on what you did here] |
 
 ### 🌐 Web
 | Project | What it does |
 |---|---|
 | [caregiver-training-platform](https://github.com/DarshanGaviyappa/caregiver-training-platform) | Training platform for caregivers with modules, quizzes, progress tracking and points. React, Express, MongoDB, JWT auth. |
 
-<sub>Earlier coursework (web development, cloud) lives in repos tagged `coursework`.</sub>
+<sub>Earlier coursework (web development, cloud) is in the other repositories on this profile.</sub>
